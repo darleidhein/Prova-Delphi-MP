@@ -5,17 +5,26 @@ Realização da prova Delphi MP
 O sistema foi desenvolvido em Delphi versão Tokyo utilizando os componentes nativos da IDE.
 Para alguns computadores, será necessário ter as dlls libeay32.dll e ssleay32.dl na pasta do executável, pois sem elas pode ocorrer falhas de comunicação http.
 
-# Estruturada da aplicação
+# Aplicação
+![GerenciadorDownloads](https://user-images.githubusercontent.com/65925299/167486998-86af00f8-8be8-4403-b0c5-b84f0543cf6b.PNG)
 
+O Objetivo desta aplicação é baixar um arquivo via HTTP informando um link/url e gravar os dados referente ao download em uma tabela do banco de dados SQLite.
 
 # Pré-Condições Técnicas
 Utilizar orientação a objetos
+
 Utilizar SOLID
+
 Utilizar Clean Code
+
 Utilizar boas práticas de tratamento de exceção
+
 Utilizar processamento multithread
+
 Realizar o download via HTTP request 
-Os dados dos downloads devem ser armazenados em um banco SQLite
+
+Os dados dos downloads devem ser armazenados em um banco SQLite com a seguinte estrutura:
+
 ![image](https://user-images.githubusercontent.com/65925299/167486067-ceb84095-81df-4ed2-af05-da3332fe8eba.png)
 
 
