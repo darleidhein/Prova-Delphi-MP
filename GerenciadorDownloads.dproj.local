@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/05 17:51:53.000.988,=C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/05 17:52:09.000.524,=C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/05 17:58:33.000.878,=C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/07 11:20:29.000.162,=C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/07 17:30:32.000.382,C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\GerenciadorDownloads\GerenciadorDownlods.dfm</Transaction>
+    <Transaction>2022/05/07 17:30:32.000.379,C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\GerenciadorDownloads\GerenciadorDownlods.pas</Transaction>
+    <Transaction>2022/05/08 17:23:00.000.979,=C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/08 17:31:59.000.459,C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\GerenciadorDownloads\dmGerenciadorDownloads.dfm</Transaction>
+    <Transaction>2022/05/08 17:31:59.000.459,C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\GerenciadorDownloads\dmGerenciadorDownloads.pas</Transaction>
+    <Transaction>2022/05/08 18:05:21.000.968,=C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/08 18:08:23.000.883,C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\GerenciadorDownloads\blGerenciadorDownloads.pas</Transaction>
+    <Transaction>2022/05/09 09:37:51.000.531,C:\Users\darle\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\GerenciadorDownloads\GerenciadorDownloads.dproj</Transaction>
+    <Transaction>2022/05/09 13:22:01.000.264,=C:\GerenciadorDownloads\Unit1.pas</Transaction>
+    <Transaction>2022/05/09 13:22:13.000.753,C:\GerenciadorDownloads\Unit1.dfm=C:\GerenciadorDownloads\dlgHistoricoDownloads.dfm</Transaction>
+    <Transaction>2022/05/09 13:22:13.000.753,C:\GerenciadorDownloads\Unit1.pas=C:\GerenciadorDownloads\dlgHistoricoDownloads.pas</Transaction>
+  </Transactions>
+</BorlandProject>
