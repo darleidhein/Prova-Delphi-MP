@@ -1,6 +1,3 @@
-# Prova-Delphi-MP
-Realização da prova Delphi MP
-
 # Ambiente
 O sistema foi desenvolvido em Delphi versão Tokyo utilizando os componentes nativos da IDE.
 Para alguns computadores, será necessário ter as dlls libeay32.dll e ssleay32.dl na pasta do executável, pois sem elas pode ocorrer falhas de comunicação http.
