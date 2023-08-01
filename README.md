@@ -7,20 +7,20 @@ Para alguns computadores, será necessário ter as dlls libeay32.dll e ssleay32.
 
 O Objetivo desta aplicação é baixar um arquivo via HTTP informando um link/url e gravar os dados referente ao download em uma tabela do banco de dados SQLite.
 
-# Pré-Condições Técnicas
-Utilizar orientação a objetos
+# Conceitos utilizados
+Orientação a objetos
 
-Utilizar SOLID
+SOLID
 
-Utilizar Clean Code
+Clean Code
 
-Utilizar boas práticas de tratamento de exceção
+Boas práticas de tratamento de exceção
 
-Utilizar processamento multithread
+Processamento multithread
 
-Realizar o download via HTTP request 
+Download via HTTP request 
 
-Os dados dos downloads devem ser armazenados em um banco SQLite com a seguinte estrutura:
+Os dados dos downloads serão armazenados em um banco SQLite com a seguinte estrutura:
 
 ![image](https://user-images.githubusercontent.com/65925299/167486067-ceb84095-81df-4ed2-af05-da3332fe8eba.png)
 
