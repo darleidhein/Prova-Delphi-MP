@@ -9,16 +9,25 @@ O Objetivo desta aplicação é baixar um arquivo via HTTP informando um link/ur
 
 # Conceitos utilizados
 Orientação a objetos
+ - Para deixar o código bem estruturado.
 
-SOLID
+SOLID 
+ - Seguindo alguns dos seus conceitos como o da Single Responsability
 
-Clean Code
+Design Patterns 
+ - Utilizado o IObserver para manter o estado dos objetos atualizados.
 
-Boas práticas de tratamento de exceção
+Clean Code 
+ - Deixar o código limpo e de fácil leitura e entendimento.
+
+Boas práticas de tratamento de exceção 
+ - Evitar erros sem tratamentos.
 
 Processamento multithread
+ - Fins de estudo
 
-Download via HTTP request 
+Download via HTTP request
+ - Fins de estudo
 
 Os dados dos downloads serão armazenados em um banco SQLite com a seguinte estrutura:
 
